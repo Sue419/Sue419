@@ -4,7 +4,7 @@
 
 <!--
 **Sue419/Sue419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 - Mi carrera inicial como periodista me enseñó la importancia de la comunicación efectiva y cómo contar historias convincentes y mi pasión por la fotografía y el diseño me ha brindado un enfoque artístico y estético en todo lo que hago. 🌟 Hoy, como Desarrolladora Front End en constante crecimiento, mi objetivo es fusionar todas estas experiencias y habilidades para crear y construir interfaces web funcionales que no solo aporten valor técnico, sino que también cuenten historias y generen conexion con los usuarios. Por ello, mi enfoque es poder desarrollar soluciones creativas y significativas que impacten positivamente.
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: Movie Challenge
 - 🌱 I’m currently learning: Angular and React
 - 💬 Ask me about: Desing (Figma, Adobe XD, PS, AI)
--->
+
