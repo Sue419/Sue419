@@ -1,6 +1,10 @@
-<h2 align="center">👩‍💻📸 ¡Hola, soy Susan Ojeda! 👋 </h2>
- 
-### Soy 👩‍💻 Desarrolladora Web | 📸 Fotógrafa | 🌿 Amante de la Naturaleza y el arte
+<div>
+ <img align="center">
+ <h2 align="center">👩‍💻📸 ¡Hola, soy Susan Ojeda! 👋 </h2>
+ <h2 align="center"> Soy 👩‍💻 Desarrolladora Web | 📸 Fotógrafa | 🌿 Amante de la Naturaleza y el arte </h2>
+</div>
+
+
 
 <!--
 **Sue419/Sue419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
