@@ -1,5 +1,5 @@
 <div>
- <img align="center"![Alt text](src/banner.jpg)>
+ ![Alt text](src/banner.jpg)
  <h2 align="center">👩‍💻📸 ¡Hola, soy Susan Ojeda! 👋 </h2>
  <h2 align="center"> Soy 👩‍💻 Desarrolladora Web | 📸 Fotógrafa | 🌿 Amante de la Naturaleza y el arte </h2>
 </div>
